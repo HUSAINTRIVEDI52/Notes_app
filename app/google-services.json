@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389565426298",
+    "project_id": "login-signup-firebase-ea51a",
+    "storage_bucket": "login-signup-firebase-ea51a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389565426298:android:611de4e8f1f7c422bae9c3",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQkPm93igg5cRD32P6GqO9fhdE_FpFOkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
